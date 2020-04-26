@@ -1,5 +1,5 @@
  
-# [Blog Post Introducing ConsPortfolioModel to Econ-ARK](https://econ-ark.github.io/REMARK/REMARKs/PortfolioChoiceBlogPost/PortfolioChoiceBlogPost.html)
+# [Blog Post Introducing ConsPortfolioModel to Econ-ARK](https://econ-ark.github.io/PortfolioChoiceBlogPost/PortfolioChoiceBlogPost.html)
 
 ### Reproduce the results and figures
 
@@ -11,11 +11,11 @@ To install docker locally follow the [guide](https://github.com/econ-ark/econ-ar
 - Then [clone](https://www.toolsqa.com/git/git-clone/) the REMARK repository locally
 
 ```
-$ git clone https://github.com/econ-ark/REMARK
+$ git clone https://github.com/econ-ark/PortfolioChoiceBlogPost
 ```
 - To make sure figures are reproduced on the correct path, make sure you are in the PortfolioChoiceBlogPost directory
 ```
-$ cd REMARKs/PortfolioChoiceBlogPost
+$ cd PortfolioChoiceBlogPost
 ```
 
 As a sanity check, you can confirm the present working directory using
@@ -25,7 +25,7 @@ $ pwd
 ```
 and it should give you something like
 ```
-/path_to_clone_of_REMARK/REMARKs/PortfolioChoiceBlogPost
+/path_to_clone/PortfolioChoiceBlogPost
 ```
 
 - Run the following bash script in the directory to reproduce all the figures against different parameters.
