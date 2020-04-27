@@ -222,7 +222,7 @@
 #
 # The point of creating the `ConsPortfolioModel` tool was to make it easy for anyone to explore possibilities like these.  
 #
-# The [README](https://github.com/econ-ark/REMARK/tree/master/REMARKs/PortfolioChoiceBlogPost#user-content-portfoliochoiceblogpost) describes how you can use the tool to explore such model modifications; for example, if the perception of the riskiness of stock investments increases with age, the model can match the "100 minus age" rule's advice that retired people should reduce their exposure to stock market risk.
+# The [README](https://github.com/econ-ark/PortfolioChoiceBlogPost/blob/master/README.md) describes how you can use the tool to explore such model modifications; for example, if the perception of the riskiness of stock investments increases with age, the model can match the "100 minus age" rule's advice that retired people should reduce their exposure to stock market risk.
 
 # %% [markdown]
 # ## What Might Still Be Missing
@@ -234,7 +234,7 @@
 # %% [markdown]
 # #### Code
 #
-# The computer code to reproduce all of the figures in this notebook, and a great many others, can be executed by [installing](https://github.com/econ-ark/HARK/#install) the [Econ-ARK toolkit](https://github.com/econ-ark/HARK/#readme) and cloning the [REMARK](https://github.com/econ-ark/REMARK) repository.  The small unix program `do_all_code.sh` at the root level of the [REMARKs/PortfolioChoiceBlogPost](https://github.com/econ-ark/REMARK/blob/master/REMARKs/PortfolioChoiceBlogPost/do_all_code.sh) directory produces everything.
+# The computer code to reproduce all of the figures in this notebook, and a great many others, can be executed by [installing](https://github.com/econ-ark/HARK/#install) the [Econ-ARK toolkit](https://github.com/econ-ark/HARK/#readme) and cloning the [PortfolioChoiceBlogPost](https://github.com/econ-ark/PortfolioChoiceBlogPost) repository.  The small unix program `do_all_code.sh` at the root level of the [PortfolioChoiceBlogPost](https://github.com/econ-ark/PortfolioChoiceBlogPost/blob/master/do_all_code.sh) directory produces everything.
 #
 # A replication of main results of the CGM paper is referenced in a link below.
 #
